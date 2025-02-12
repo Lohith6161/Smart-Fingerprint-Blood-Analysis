@@ -1,4 +1,4 @@
-# Smart-Fingerprint-Blood-Analy            
+# Smart-Fingerprint-Blood-Analysis          
   Determining blood type is essential including in emergency situation. Currently, these
 tests are performed manually by technicians, which can lead to human errors. Various
 systems have been developed to automate these tests, but none is able to perform the
